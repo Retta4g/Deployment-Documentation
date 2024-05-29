@@ -1,4 +1,4 @@
-#what is tags and how do the differ from branches?
+##what is tags and how do the differ from branches?
     Git tags are a way to mark specific points in the reposiory's history, usually representing important milestones or release. They are way to creat a permanet reference to a specific commit.
     Inconstrast, branches in Git are a way to creat a separe line of development, allowing multiple features or bug fixes to be worked on simultaneously. Branches are more flexiable and can be merged backinto the main codebase, whereas tags are more static and represent a specific snapshot in time
 #How can git tag help in managing and tracking deplyments?
